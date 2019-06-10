@@ -1,3 +1,4 @@
+
 p {
   font-family: Arial;
 }
@@ -8,6 +9,13 @@ h1 {
 
 .title {
   color: yellow;
+}
+
+
+.stitle {
+
+  color: green;
+
 }
 
 .uppercase {
